@@ -42,7 +42,7 @@ const HomeComp = () => {
         // setCount(count + 1)
         // setCount(count + 1)
         // setCount(count + 1)
-        // 5
+        
     }
 
   return (
